@@ -1,0 +1,15 @@
+2023-08-06 06:39:57.414045 - Initialized conversion of CBT714
+2023-08-06 06:39:57.673744 - Received CBT.V505.FILE714.PDS from FILE714.XMI 
+2023-08-06 06:39:57.675869 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE714.PDS, moved to PDS/$$$#DATE
+2023-08-06 06:39:57.676834 - Found $$NOTE1.txt (text/plain) in CBT.V505.FILE714.PDS, moved to PDS/$$NOTE1
+2023-08-06 06:39:57.678047 - Found $COMPILE.jcl (text/plain) in CBT.V505.FILE714.PDS, moved to PDS/$COMPILE
+2023-08-06 06:39:57.678980 - Found $SAMPOUT.txt (text/plain) in CBT.V505.FILE714.PDS, moved to PDS/$SAMPOUT
+2023-08-06 06:39:57.679897 - Found $SAMPRUN.jcl (text/plain) in CBT.V505.FILE714.PDS, moved to PDS/$SAMPRUN
+2023-08-06 06:39:57.680798 - Found @FILE714.txt (text/plain) in CBT.V505.FILE714.PDS, moved to PDS/@FILE714
+2023-08-06 06:39:57.682259 - Found ASMSRC.txt (text/plain) in CBT.V505.FILE714.PDS, moved to PDS/ASMSRC
+2023-08-06 06:39:57.683375 - Found COS001A.txt (text/plain) in CBT.V505.FILE714.PDS, moved to PDS/COS001A
+2023-08-06 06:39:57.684286 - Found COS001B.txt (text/plain) in CBT.V505.FILE714.PDS, moved to PDS/COS001B
+2023-08-06 06:39:57.685184 - Found DSSDUMP.txt (text/plain) in CBT.V505.FILE714.PDS, moved to PDS/DSSDUMP
+2023-08-06 06:39:57.686107 - Found LINKDATE.txt (text/plain) in CBT.V505.FILE714.PDS, moved to PDS/LINKDATE
+2023-08-06 06:39:57.687371 - Found PLISRC.txt (text/plain) in CBT.V505.FILE714.PDS, moved to PDS/PLISRC
+2023-08-06 06:39:57.687382 - Found TAR.tar containing application/x-tar, moved to PDS/TAR
